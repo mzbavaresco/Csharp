@@ -1,0 +1,10 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.exe.config
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\bin\Debug\WindowsFormApp.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.GenerateResource.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\windowsForm\WindowsFormApp\WindowsFormApp\obj\Debug\WindowsFormApp.Frm_HelloWorld.resources

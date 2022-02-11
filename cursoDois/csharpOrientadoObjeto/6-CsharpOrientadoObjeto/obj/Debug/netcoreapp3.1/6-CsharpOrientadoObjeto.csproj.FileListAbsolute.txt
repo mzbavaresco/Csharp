@@ -1,0 +1,14 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\6-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\6-CsharpOrientadoObjeto.csproj.AssemblyReference.cache

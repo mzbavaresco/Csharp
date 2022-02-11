@@ -1,0 +1,14 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\bin\Debug\netcoreapp3.1\writeLineProject.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\bin\Debug\netcoreapp3.1\writeLineProject.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\bin\Debug\netcoreapp3.1\writeLineProject.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\bin\Debug\netcoreapp3.1\writeLineProject.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\bin\Debug\netcoreapp3.1\writeLineProject.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\bin\Debug\netcoreapp3.1\writeLineProject.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\obj\Debug\netcoreapp3.1\writeLineProject.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\obj\Debug\netcoreapp3.1\writeLineProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\obj\Debug\netcoreapp3.1\writeLineProject.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\obj\Debug\netcoreapp3.1\writeLineProject.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\obj\Debug\netcoreapp3.1\writeLineProject.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\obj\Debug\netcoreapp3.1\writeLineProject.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\obj\Debug\netcoreapp3.1\writeLineProject.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\writeLineProject\obj\Debug\netcoreapp3.1\writeLineProject.genruntimeconfig.cache

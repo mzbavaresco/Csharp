@@ -1,0 +1,14 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\bin\Debug\netcoreapp3.1\bollean.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\bin\Debug\netcoreapp3.1\bollean.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\bin\Debug\netcoreapp3.1\bollean.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\bin\Debug\netcoreapp3.1\bollean.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\bin\Debug\netcoreapp3.1\bollean.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\bin\Debug\netcoreapp3.1\bollean.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\obj\Debug\netcoreapp3.1\bollean.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\obj\Debug\netcoreapp3.1\bollean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\obj\Debug\netcoreapp3.1\bollean.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\obj\Debug\netcoreapp3.1\bollean.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\obj\Debug\netcoreapp3.1\bollean.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\obj\Debug\netcoreapp3.1\bollean.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\obj\Debug\netcoreapp3.1\bollean.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\bollean\obj\Debug\netcoreapp3.1\bollean.genruntimeconfig.cache

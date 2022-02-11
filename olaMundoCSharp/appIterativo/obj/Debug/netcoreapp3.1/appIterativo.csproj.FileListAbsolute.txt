@@ -1,0 +1,14 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\bin\Debug\netcoreapp3.1\appIterativo.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\bin\Debug\netcoreapp3.1\appIterativo.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\bin\Debug\netcoreapp3.1\appIterativo.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\bin\Debug\netcoreapp3.1\appIterativo.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\bin\Debug\netcoreapp3.1\appIterativo.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\bin\Debug\netcoreapp3.1\appIterativo.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\obj\Debug\netcoreapp3.1\appIterativo.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\obj\Debug\netcoreapp3.1\appIterativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\obj\Debug\netcoreapp3.1\appIterativo.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\obj\Debug\netcoreapp3.1\appIterativo.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\obj\Debug\netcoreapp3.1\appIterativo.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\obj\Debug\netcoreapp3.1\appIterativo.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\obj\Debug\netcoreapp3.1\appIterativo.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\appIterativo\obj\Debug\netcoreapp3.1\appIterativo.genruntimeconfig.cache

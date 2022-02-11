@@ -1,0 +1,13 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\bin\Debug\netcoreapp3.1\EnumCSharp.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\bin\Debug\netcoreapp3.1\EnumCSharp.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\bin\Debug\netcoreapp3.1\EnumCSharp.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\bin\Debug\netcoreapp3.1\EnumCSharp.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\bin\Debug\netcoreapp3.1\EnumCSharp.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\bin\Debug\netcoreapp3.1\EnumCSharp.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\obj\Debug\netcoreapp3.1\EnumCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\obj\Debug\netcoreapp3.1\EnumCSharp.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\obj\Debug\netcoreapp3.1\EnumCSharp.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\obj\Debug\netcoreapp3.1\EnumCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\obj\Debug\netcoreapp3.1\EnumCSharp.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\obj\Debug\netcoreapp3.1\EnumCSharp.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Enum\EnumCSharp\EnumCSharp\obj\Debug\netcoreapp3.1\EnumCSharp.genruntimeconfig.cache

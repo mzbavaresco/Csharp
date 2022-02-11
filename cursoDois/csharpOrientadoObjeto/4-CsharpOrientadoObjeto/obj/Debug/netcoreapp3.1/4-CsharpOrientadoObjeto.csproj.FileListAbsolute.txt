@@ -1,0 +1,13 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\bin\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\cursoDois\csharpOrientadoObjeto\4-CsharpOrientadoObjeto\obj\Debug\netcoreapp3.1\4-CsharpOrientadoObjeto.genruntimeconfig.cache

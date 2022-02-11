@@ -1,0 +1,13 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ListaArray.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ListaArray.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ListaArray.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ListaArray.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ListaArray.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ListaArray.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ListaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ListaArray.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ListaArray.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ListaArray.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ListaArray.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ListaArray.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\testeArrayList\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ListaArray.genruntimeconfig.cache

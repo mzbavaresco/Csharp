@@ -1,0 +1,14 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\bin\Debug\netcoreapp3.1\LeituraEscritaArq.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\bin\Debug\netcoreapp3.1\LeituraEscritaArq.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\bin\Debug\netcoreapp3.1\LeituraEscritaArq.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\bin\Debug\netcoreapp3.1\LeituraEscritaArq.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\bin\Debug\netcoreapp3.1\LeituraEscritaArq.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\bin\Debug\netcoreapp3.1\LeituraEscritaArq.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\obj\Debug\netcoreapp3.1\LeituraEscritaArq.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\obj\Debug\netcoreapp3.1\LeituraEscritaArq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\obj\Debug\netcoreapp3.1\LeituraEscritaArq.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\obj\Debug\netcoreapp3.1\LeituraEscritaArq.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\obj\Debug\netcoreapp3.1\LeituraEscritaArq.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\obj\Debug\netcoreapp3.1\LeituraEscritaArq.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\obj\Debug\netcoreapp3.1\LeituraEscritaArq.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\leituraEscritaArq\LeituraEscritaArq\LeituraEscritaArq\obj\Debug\netcoreapp3.1\LeituraEscritaArq.genruntimeconfig.cache

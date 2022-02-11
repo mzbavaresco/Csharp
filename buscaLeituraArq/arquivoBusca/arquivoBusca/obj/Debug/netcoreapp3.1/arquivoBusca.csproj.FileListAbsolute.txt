@@ -1,0 +1,14 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\bin\Debug\netcoreapp3.1\arquivoBusca.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\bin\Debug\netcoreapp3.1\arquivoBusca.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\bin\Debug\netcoreapp3.1\arquivoBusca.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\bin\Debug\netcoreapp3.1\arquivoBusca.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\bin\Debug\netcoreapp3.1\arquivoBusca.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\bin\Debug\netcoreapp3.1\arquivoBusca.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\obj\Debug\netcoreapp3.1\arquivoBusca.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\obj\Debug\netcoreapp3.1\arquivoBusca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\obj\Debug\netcoreapp3.1\arquivoBusca.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\obj\Debug\netcoreapp3.1\arquivoBusca.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\obj\Debug\netcoreapp3.1\arquivoBusca.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\obj\Debug\netcoreapp3.1\arquivoBusca.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\obj\Debug\netcoreapp3.1\arquivoBusca.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\buscaLeituraArq\arquivoBusca\arquivoBusca\obj\Debug\netcoreapp3.1\arquivoBusca.genruntimeconfig.cache

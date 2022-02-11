@@ -1,0 +1,13 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\bin\Debug\netcoreapp2.1\criandoVariaveis.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\bin\Debug\netcoreapp2.1\criandoVariaveis.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\bin\Debug\netcoreapp2.1\criandoVariaveis.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\bin\Debug\netcoreapp2.1\criandoVariaveis.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\bin\Debug\netcoreapp2.1\criandoVariaveis.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\obj\Debug\netcoreapp2.1\criandoVariaveis.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\obj\Debug\netcoreapp2.1\criandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\obj\Debug\netcoreapp2.1\criandoVariaveis.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\obj\Debug\netcoreapp2.1\criandoVariaveis.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\obj\Debug\netcoreapp2.1\criandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\obj\Debug\netcoreapp2.1\criandoVariaveis.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\obj\Debug\netcoreapp2.1\criandoVariaveis.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\olaMundoCSharp\criandoVariaveis\obj\Debug\netcoreapp2.1\criandoVariaveis.genruntimeconfig.cache

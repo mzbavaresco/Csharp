@@ -1,0 +1,14 @@
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.exe
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.deps.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.runtimeconfig.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.runtimeconfig.dev.json
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\bin\Debug\netcoreapp3.1\CsharpProject.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.csproj.AssemblyReference.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.dll
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.pdb
+C:\Users\Mauricio\Desktop\Atividades\CSharp\Teste\CsharpProject\CsharpProject\obj\Debug\netcoreapp3.1\CsharpProject.genruntimeconfig.cache
